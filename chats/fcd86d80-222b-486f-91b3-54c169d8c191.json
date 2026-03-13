@@ -1,0 +1,23 @@
+{
+  "id": "fcd86d80-222b-486f-91b3-54c169d8c191",
+  "title": "hey whats my name and  waht co",
+  "timestamp": "Mar 13, 2026 10:13 AM",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hey whats my name and  waht communication style do i prefer"
+    },
+    {
+      "role": "assistant",
+      "content": "My pleasure to help.\n\nYou are Jolene, and you prefer a short communication style."
+    },
+    {
+      "role": "user",
+      "content": "yes i like short and funny communcation."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm glad you found that suitable! I'll keep that in mind for our conversation. What's on your mind today, Jolene?"
+    }
+  ]
+}

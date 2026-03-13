@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#B0D0D9"
+backgroundColor = "#E8F8FC"
+secondaryBackgroundColor = "#a2a7b1"
+textColor = "#050505"
+font = "Calibri"
